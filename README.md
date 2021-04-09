@@ -24,6 +24,8 @@ no arguments: display command usage along with an explanation of all other comma
 -first or –first: display the class roster sorted by first name
 -last or –last: display the class roster sorted by last name
 -id or –id: display the class roster sorted by student ID
+
+
 Exercise 6 - read an entire file into a variable
 See http://www.perlhowto.com/read_the_contents_of_a_file_into_a_variable. Reading an entire file into a variable in Perl involves manipulating the $/ special variable which is mentioned at http://www.kichwa.com/quik_ref/spec_variables.html .
 
